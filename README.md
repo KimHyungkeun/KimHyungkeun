@@ -1,4 +1,10 @@
-### Hi there 👋
+### 안녕하세요. 👋 Java, Python 사용가능 및 Hadoop을 기술스택으로 사용할 수 있는 주니어 데이터 엔지니어 입니다.
+
+- Apache Spark를 이용하여 데이터 이관 어플리케이션 개발 경험 보유
+- Apache BigTop을 이용한 Ambari를 사용하여 빅데이터 스토리지 구축 경험 보유 
+- Spring Boot를 이용한 KAI 데이터 매니징 웹페이지 백엔드 파트 개발 담당
+- Spring Boot를 이용하여 사내 솔루션 웹페이지 백엔드 파이프라인 메타정보 등록 API 구현 경험 보유
+
 
 <!--
 **KimHyungkeun/KimHyungkeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
